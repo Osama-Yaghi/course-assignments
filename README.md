@@ -1,2 +1,2 @@
 # course-assignments
-Various course assigments during my studies (2019-2020)
+Here are various course assigments during my Masters studies (2019-2020).
